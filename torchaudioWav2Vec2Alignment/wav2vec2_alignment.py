@@ -1,4 +1,4 @@
-# alignment_with_wav2vec_torchaudio.py
+# wav2vec2_alignment.py
 # Tutorial on how to align text transcript to speech with torchaudio
 # and using the CTC segmentation algorithm described in this paper:
 # CTC-Segmentation of Large Corpora for German End-to-end Speech 
@@ -8,6 +8,7 @@
 # Source: https://arxiv.org/pdf/2007.09127.pdf
 # Pytorch 2.0
 # Windows/MacOS/Linux
+# Python 3.7
 
 
 from dataclasses import dataclass

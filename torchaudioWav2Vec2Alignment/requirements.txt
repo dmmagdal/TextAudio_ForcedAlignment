@@ -1,0 +1,5 @@
+matplotlib>=3.6.2
+matplotlib-inline>=0.1.6
+Pillow>=7.2.0
+torch==2.0.0
+torchaudio==2.0.1
