@@ -17,7 +17,7 @@ Description: This repo is a designed to learn about different ways to do forced 
      - An Illustrated Tour of Wav2Vec 2.0 [Blog post](https://jonathanbgn.com/2021/09/30/illustrated-wav2vec-2.html)
      - Facebook Research fairseq [GitHub repo](https://github.com/facebookresearch/fairseq/blob/main/examples/wav2vec/README.md) (Wav2Vec 2.0 README.md)
      - Forced Alignment with Wav2Vec 2 [Pytorch tutorial](https://pytorch.org/audio/stable/tutorials/forced_alignment_tutorial.html)
-     - Fine-tuning Wav2vec2 with an LM Head [Tensorflow tutorial](https://www.tensorflow.org/hub/tutorials/wav2vec2_saved_model_finetuning)
+     - Fine-tuning Wav2vec2 with an LM Head (for ASR) [Tensorflow tutorial](https://www.tensorflow.org/hub/tutorials/wav2vec2_saved_model_finetuning)
      - Tensorflow Hub Wav2Vec 2.0 [model checkpoints](https://tfhub.dev/s?q=wav2vec2):
          - [Wav2Vec2](https://tfhub.dev/vasudevgupta7/wav2vec2/1)
          - [Wav2Vec2-960h](https://tfhub.dev/vasudevgupta7/wav2vec2-960h/1)
