@@ -21,3 +21,13 @@ Description: This repo is a designed to learn about different ways to do forced 
      - Tensorflow Hub Wav2Vec 2.0 [model checkpoints](https://tfhub.dev/s?q=wav2vec2):
          - [Wav2Vec2](https://tfhub.dev/vasudevgupta7/wav2vec2/1)
          - [Wav2Vec2-960h](https://tfhub.dev/vasudevgupta7/wav2vec2-960h/1)
+     - Huggingface Wav2Vec 2.0:
+         - [Model page/documentation](https://huggingface.co/docs/transformers/model_doc/wav2vec2)
+         - Huggingface Hub models:
+            - Facebook wav2vec2-base [model](https://huggingface.co/facebook/wav2vec2-base) (Torch)
+            - Facebook wav2vec2-large [model](https://huggingface.co/facebook/wav2vec2-large) (Torch)
+            - Facebook wav2vec2-base-960h [model](https://huggingface.co/facebook/wav2vec2-base-960h) (Torch/TF)
+            - Facebook wav2vec2-large-960h [model](https://huggingface.co/facebook/wav2vec2-large-960h) (Torch)
+            - Vasudevgupta tf-wav2vec2-base [model](https://huggingface.co/vasudevgupta/tf-wav2vec2-base) (TF)
+            - Vasudevgupta gsoc-wav2vec2 [model](https://huggingface.co/vasudevgupta/gsoc-wav2vec2) (TF)
+            - Vasudevgupta gsoc-wav2vec2-960h [model](https://huggingface.co/vasudevgupta/gsoc-wav2vec2-960h) (TF)
