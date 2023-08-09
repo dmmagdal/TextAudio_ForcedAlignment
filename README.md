@@ -5,6 +5,8 @@ Description: This repo is a designed to learn about different ways to do forced 
 
 ### Notes
 
+ - Monotonic Alignment Search (or MAS) is used in [Glow-TTS](https://github.com/jaywalnut310/glow-tts), [Rad-TTS](https://github.com/NVIDIA/radtts), [Glow-TTS](https://github.com/huawei-noah/Speech-Backbones/tree/main/Grad-TTS), [VITS](https://github.com/jaywalnut310/vits)
+
 
 ### References
 
@@ -31,3 +33,9 @@ Description: This repo is a designed to learn about different ways to do forced 
             - Vasudevgupta tf-wav2vec2-base [model](https://huggingface.co/vasudevgupta/tf-wav2vec2-base) (TF)
             - Vasudevgupta gsoc-wav2vec2 [model](https://huggingface.co/vasudevgupta/gsoc-wav2vec2) (TF)
             - Vasudevgupta gsoc-wav2vec2-960h [model](https://huggingface.co/vasudevgupta/gsoc-wav2vec2-960h) (TF)
+ - Monotonic Alignment Search (MAS)
+     - Glow-TTS: A Generative Flow for Text-to-Speech via Monotonic Alignment Search [Arxiv paper](https://arxiv.org/pdf/2005.11129.pdf)
+     - Glow-TTS [GitHub pages](https://jaketae.github.io/study/glowtts/)
+     - Glow-TTS implementation [GitHub repo](https://github.com/jaywalnut310/glow-tts) (Torch)
+     - Monotonic Algin [GitHub repo](https://github.com/resemble-ai/monotonic_align) (Torch)
+ - Forced Alignment: How to match audio with a transcript via Machine Learning? [Medium article](https://techfirst.medium.com/forced-alignment-how-to-match-audio-with-a-transcript-via-machine-learning-dd19da8c0f04)
