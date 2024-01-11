@@ -39,3 +39,4 @@ Description: This repo is a designed to learn about different ways to do forced 
      - Glow-TTS implementation [GitHub repo](https://github.com/jaywalnut310/glow-tts) (Torch)
      - Monotonic Algin [GitHub repo](https://github.com/resemble-ai/monotonic_align) (Torch)
  - Forced Alignment: How to match audio with a transcript via Machine Learning? [Medium article](https://techfirst.medium.com/forced-alignment-how-to-match-audio-with-a-transcript-via-machine-learning-dd19da8c0f04)
+ - Tutorial on Attention Based Models (part 2) [GitHub pages](https://krntneja.github.io/posts/2018/attention-based-models-2)
